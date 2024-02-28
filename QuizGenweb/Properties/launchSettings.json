@@ -16,8 +16,8 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "OPENAI_KEY": "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",
-        "NLP_MODEL_PATH": "D:\\Innovation\\Quiz\\stanford-postagger-full-2020-11-17\\models\\english-bidirectional-distsim.tagger"
+        "OPENAI_KEY": "",
+        "NLP_MODEL_PATH": ""
       },
       "dotnetRunMessages": true,
       "applicationUrl": "https://localhost:7046;http://localhost:5079"
